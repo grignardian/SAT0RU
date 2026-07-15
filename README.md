@@ -16,6 +16,9 @@ This project utilizes particles to render volume-based cursed techniques:
 * **Cursed Technique Reversal: Red**
     * **Visuals:** A blinding white-hot core generating a violent, jagged sphere of repulsive force.
     * **Trigger:** Index finger pointing up.
+* **Cursed Technique: Blue**
+    * **Visuals:** A bright, swirling blue energy field with spiraling particles and a focused, pull-like current.
+    * **Trigger:** Middle finger extended while the index and ring fingers stay lowered.
 * **Domain Expansion: Malevolent Shrine**
     * **Visuals:** A dark, ominous aura representing the King of Curses.
     * **Trigger:** Flat hand / Prayer gesture.
